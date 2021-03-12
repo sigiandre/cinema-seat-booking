@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "cinema booking debuggin",
+            "request": "launch",
+            "url": "file:/Users/andrediaz/Desktop/Disco%20D/cinema-seat-booking/index.html"
+        }
+    ]
+}
