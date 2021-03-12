@@ -47,7 +47,7 @@ body {
 }
 
 .seat.selected {
-  background-color: #6ff66f;
+  background-color: #ab15be;
 }
 
 .seat.occupied {
@@ -111,5 +111,5 @@ p.text {
 }
 
 p.text span {
-  color: #6ff66f;
+  color: #ab15be;
 }
